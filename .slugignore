@@ -1,0 +1,8 @@
+/app
+/app/vendor
+/app/.heroku
+/app/lib
+/app/spec
+/app/Gemfile.lock
+/app/Procfile
+/app/Gemfile
